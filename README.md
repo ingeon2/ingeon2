@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://velog.io/@dlsrjsdl6505"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ingeon2)](https://github.com/anuraghazra/github-readme-stats)
