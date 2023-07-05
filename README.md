@@ -1,4 +1,4 @@
-### 반갑습니다 👋
+# 반갑습니다 이인건입니다. 꾸준하게 달려보겠습니다.
 
 <!--
 **ingeon2/ingeon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://velog.io/@dlsrjsdl6505"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ingeon2)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsrjsdl6505)](https://solved.ac/dlsrjsdl6505/)  
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ingeon2)](https://github.com/anuraghazra/github-readme-stats)
+
+# 💪Skills
+
+# :mailbox_with_mail: Contacts  
+<a href="https://velog.io/@dlsrjsdl6505"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>  
