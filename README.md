@@ -1,4 +1,4 @@
-# 반갑습니다 이인건입니다. 꾸준하게 달려보겠습니다.
+# 반갑습니다! 좋은하루되세요!
 
 <!--
 **ingeon2/ingeon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
