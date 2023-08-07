@@ -2,6 +2,7 @@
 
 ## :mailbox_with_mail: Contacts  
 기술블로그 : <a href="https://velog.io/@dlsrjsdl6505/about"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
+<a href="https://velog.io/@dlsrjsdl6505/about" target="_blank"> https://velog.io/@dlsrjsdl6505/about </a>
 ****
 <!--
 **ingeon2/ingeon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
